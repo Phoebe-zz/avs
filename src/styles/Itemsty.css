@@ -1,0 +1,89 @@
+.tem,
+.limit,
+.experiment {
+  margin-left: 10px;
+}
+
+.Item {
+  width: 100%;
+  height: 120px;
+}
+img {
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+.tem {
+  width: 80px;
+  height: 28px;
+  font-size: 20px;
+  font-family: "微软雅黑";
+  float: left;
+  color: #222222;
+}
+.limit {
+  width: 160px;
+  height: 20px;
+  color: #e8a010;
+  float: left;
+  border: #e8a010 1px solid;
+  margin-top: 4px;
+  text-align: center;
+  border-radius: 6px;
+}
+.tui {
+  color: #e8a010;
+  float: left;
+  border: #e8a010 1px solid;
+  margin-left: 4px;
+  margin-top: 4px;
+  width: 60px;
+  text-align: center;
+  border-radius: 6px;
+}
+
+.experiment {
+  float: left;
+  margin-top: 24px;
+  color: #666666;
+}
+.pricetitle1,
+.pricetitle2 {
+  float: left;
+  margin-top: 22px;
+}
+.pricetitle1 {
+  position: relative;
+  left: 60px;
+  color: red;
+}
+.price {
+  float: left;
+  margin-top: 14px;
+  margin-left: 60px;
+  color: red;
+  font-family: "微软雅黑";
+  font-size: 24px;
+}
+.buyticket {
+  width: 100px;
+  height: 38px;
+  font-size: 28px;
+  font-family: PingFangSC-Semibold;
+  font-weight: 600;
+  color: rgba(34, 34, 34, 1);
+  line-height: 36px;
+  float: left;
+  margin-left: 10px;
+}
+.sign {
+  width: 8px;
+  height: 28px;
+  background: rgba(66, 214, 129, 1);
+  border-radius: 5px;
+  float: left;
+  margin-top: 6px;
+}
+.clea {
+  clear: both;
+}
